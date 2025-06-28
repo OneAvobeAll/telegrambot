@@ -10,7 +10,7 @@ from telegram.ext import (
 )
 
 # Enter bot token here
-BOT_TOKEN = "8045453724:AAGw3MbWBhWduZ0RP2dVyx095QMWR_013mI"
+BOT_TOKEN = ""
 
 # Set up logging
 logging.basicConfig(
